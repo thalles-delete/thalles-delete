@@ -1,12 +1,8 @@
-## Thalles Dias
+<h1 align="center">Thalles Dias</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Elms+Sans&duration=4000&pause=500&color=549FDF&center=true&random=true&width=435&lines=Aspirante+Frontend)](https://git.io/typing-svg)
-
-<!-- <p align="center">
-  <a href=""></a> |
-  <a href=""></a> |
-  <a href=""></a>
-</p> -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Elms+Sans&duration=4000&pause=500&color=549FDF&center=true&random=true&width=435&lines=Aspirante+Frontend" alt="Typing SVG" /></a>
+</p>
 
 ---
 
