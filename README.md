@@ -6,13 +6,21 @@
 
 ---
 
-# Sobre
+## Sobre
 
-- :computer: Estudante do curso técnico de Desenvolvimento de Sistemas pelo SENAI
+:computer: Estudante do curso técnico de Desenvolvimento de Sistemas pelo SENAI
 
--:ghost: Querendo seguir carreira em Frontend
+:ghost: Querendo seguir carreira em Frontend
 
+---
 
+## Foco em aprender
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+</p>
 
 <!--
 **thalles-delete/thalles-delete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
